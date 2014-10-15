@@ -4,10 +4,8 @@
 
     <meta charset="utf-8">
 
-    <!-- Always force latest IE rendering engine or request Chrome Frame -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 
-    <!-- Use title if it's in the page YAML frontmatter -->
     <title>Bible League International | Where We Serve</title>
 
     <link href="css/reset.css" rel="stylesheet" type="text/css" />
