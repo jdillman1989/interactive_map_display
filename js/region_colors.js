@@ -40,7 +40,7 @@
 // var inactive = '#dcdcdc' 
 
 //Jesse's Colors
-var asia_active = '#da826a' // //'#c87e6c' //from muted  //'#dc7d50' //original
+var asia_active = '#da826a'
 
 var africa_active = '#99b5bf'
 
